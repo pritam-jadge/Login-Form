@@ -41,7 +41,7 @@
 				<div class="form-group">
 					<label>Password</label> <input type="password" name="password" class="form-control">
 				</div>
-					  <input type="submit" value="Login" class="btn btn-primary float-right">
+					  <input type="submit" value="Login" class="btn btn-success float-right">
 			</form>
 		</div>
 	</div>
